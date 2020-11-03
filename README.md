@@ -1,2 +1,2 @@
-# Rosalind-Practice
+# Bioinformatic-Algorithm-Practice
 Practice with writing bioinformatic algorithms using the Rosalind open-source problem sets
