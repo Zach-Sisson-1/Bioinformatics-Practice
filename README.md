@@ -1,2 +1,2 @@
 # Bioinformatic-Algorithm-Practice
-Practice with writing bioinformatic algorithms using the Rosalind open-source problem sets
+Practice with writing bioinformatic algorithms using various MOOC's and open-source problem sets
